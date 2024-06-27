@@ -1,0 +1,2 @@
+# chpkg
+The packages manager.
